@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MITcoin-CMDQueryStringSerialization.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MITcoin-SSKeychain.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MITcoin-VENCore.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MITcoin-Venmo-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MITcoin.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5A10FE1ED5371B442915F14B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93E71616509823894BD11A83</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A41E5B360F42A163BDE2E7CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE6593A42B52E93A1C6BDD72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E3456C04CC70B8339AB567A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/CMDQueryStringSerialization" "${PODS_ROOT}/Headers/Public/SSKeychain" "${PODS_ROOT}/Headers/Public/VENCore" "${PODS_ROOT}/Headers/Public/Venmo-iOS-SDK"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/CMDQueryStringSerialization" -isystem "${PODS_ROOT}/Headers/Public/SSKeychain" -isystem "${PODS_ROOT}/Headers/Public/VENCore" -isystem "${PODS_ROOT}/Headers/Public/Venmo-iOS-SDK"
+OTHER_LDFLAGS = -ObjC -l"Pods-MITcoin-CMDQueryStringSerialization" -l"Pods-MITcoin-SSKeychain" -l"Pods-MITcoin-VENCore" -l"Pods-MITcoin-Venmo-iOS-SDK" -framework "Foundation" -framework "Security"
+PODS_ROOT = ${SRCROOT}/Pods
